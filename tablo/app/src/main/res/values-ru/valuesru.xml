@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">табло</string>
+    <string name="zxcqq">дед инсайды</string>
+    <string name="clowns">клоуны</string>
+    <string name="reset">сброс</string>
+    <string name="score">счет</string>
+</resources>
